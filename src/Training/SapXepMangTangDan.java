@@ -16,5 +16,9 @@ public class SapXepMangTangDan {
 			System.out.print(" " + array[i]);
 		}
 	}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
 
